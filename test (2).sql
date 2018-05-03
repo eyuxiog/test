@@ -1,7 +1,7 @@
--- phpMyAdmin SQL Dump
+﻿-- phpMyAdmin SQL Dump
 -- version phpStudy 2014
 -- http://www.phpmyadmin.net
---
+-- 
 -- 主机: localhost
 -- 生成日期: 2018 年 04 月 16 日 10:02
 -- 服务器版本: 5.5.53
